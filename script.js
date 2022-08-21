@@ -1,7 +1,4 @@
 "use strict";
-function websiteVisits(response) {
-  document.querySelector("#visits ").textContent = response.value;
-}
 // Selecting Elements
 const player0El = document.querySelector(".player--0");
 const player1El = document.querySelector(".player--1");
